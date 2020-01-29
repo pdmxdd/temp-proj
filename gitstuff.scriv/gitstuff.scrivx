@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="Matilda" Modified="2020-01-29 13:19:09 -0600" ModID="62D67B9B-E40F-4B04-B7A3-677FA342AE2A">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="Matilda" Modified="2020-01-29 13:24:06 -0600" ModID="4EB65983-E7A8-4E80-A5F8-2389D14BD08D">
     <Binder>
         <BinderItem ID="0" UUID="B1AA56B9-E76E-469F-BF4C-43CB90A09C4E" Created="2020-01-29 13:18:11 -0600" Modified="2020-01-29 13:18:11 -0600" Type="DraftFolder">
             <Title>Draft</Title>
@@ -7,13 +7,13 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" UUID="71BCB5E7-F9F5-4BA4-900C-624E6E5C3097" Created="2020-01-29 13:18:11 -0600" Modified="2020-01-29 13:19:06 -0600" Type="Text">
+                <BinderItem ID="3" UUID="71BCB5E7-F9F5-4BA4-900C-624E6E5C3097" Created="2020-01-29 13:18:11 -0600" Modified="2020-01-29 13:24:00 -0600" Type="Text">
                     <Title>We are writing a joyous paper</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>36,0</TextSelection>
+                        <TextSelection>45,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -57,7 +57,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="8" Characters="36" Date="2020-01-29 13:18:11 -0600"/>
+        <PreviousSession Words="9" Characters="45" Date="2020-01-29 13:18:11 -0600"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="BF74BA85-345C-4DEE-8909-B999F432205F" Color="0.901961 0.917647 0.933333">
